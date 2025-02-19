@@ -38,13 +38,10 @@ html {
 
 
 
-.ct li {
-    color: black;
-}
 
 .container h2 {
     color: black;
-    text-align: center;
+    
 }
 
 #certificates {
@@ -52,9 +49,7 @@ html {
 }
 
 
-.ct {
-   padding-left: 550px;
-}
+
 
 
 
